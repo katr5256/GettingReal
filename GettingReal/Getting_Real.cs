@@ -32,6 +32,7 @@ namespace GettingReal
 
                 case 4:
                     Console.WriteLine("4. Luk ned");
+                    //hej
             }
         }
     }
